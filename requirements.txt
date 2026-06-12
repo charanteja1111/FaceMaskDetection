@@ -1,0 +1,8 @@
+numpy
+opencv-python
+pillow
+torch
+torchvision
+tensorflow
+paddlepaddle
+x2paddle
